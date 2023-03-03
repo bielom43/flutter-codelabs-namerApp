@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Templates
+*.cc
+*.c
+*.h
+*.cs
