@@ -31,8 +31,6 @@
 *.out
 *.app
 
-# Templates
-*.cc
-*.c
-*.h
-*.cs
+#Folders&Files
+./build/
+build*

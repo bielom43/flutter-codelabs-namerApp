@@ -18,7 +18,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{918DAB75-E4BA-3091-9520-6499C38B483C}</ProjectGuid>
+    <ProjectGuid>{4E523E11-7FBE-3172-BE01-EB26B632D860}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -100,7 +100,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Administrator\Documents\Github\flutter\codelabs_app\build\windows\CMakeFiles\dc0fdf4b99f938d917a7d48599847cd3\INSTALL_force.rule">
+    <CustomBuild Include="C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\build\windows\CMakeFiles\900a1311f8361e221d8aa537bb9a00a5\INSTALL_force.rule">
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"> </Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
 cd .
@@ -112,7 +112,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Administrator\Documents\Github\flutter\codelabs_app\build\windows\runner\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\build\windows\runner\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'"> </Message>
@@ -126,7 +126,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Administrator\Documents\Github\flutter\codelabs_app\build\windows\runner\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\build\windows\runner\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'"> </Message>
@@ -140,20 +140,20 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Administrator\Documents\Github\flutter\codelabs_app\build\windows\runner\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\build\windows\runner\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</VerifyInputsAndOutputsExist>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\Administrator\Documents\Github\flutter\codelabs_app\build\windows\ZERO_CHECK.vcxproj">
-      <Project>{51EAF31A-A3E1-30AB-A687-2BC95C3C181A}</Project>
+    <ProjectReference Include="C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\build\windows\ZERO_CHECK.vcxproj">
+      <Project>{5BB8150C-1DEB-3DA5-A5D4-E5DFEB00CFAE}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Administrator\Documents\Github\flutter\codelabs_app\build\windows\runner\ALL_BUILD.vcxproj">
-      <Project>{4949CCBD-673D-3F2E-8592-5427734A3013}</Project>
+    <ProjectReference Include="C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\build\windows\runner\ALL_BUILD.vcxproj">
+      <Project>{079A980A-53FD-3AC2-973F-CB10ED993191}</Project>
       <Name>ALL_BUILD</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

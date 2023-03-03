@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Administrator/Documents/Github/flutter/codelabs_app/windows/runner
+# Install script for directory: C:/Users/Administrator/Documents/Github/flutter/flutter-codelabs-namerApp/windows/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Administrator\Documents\Github\flutter\codelabs_app\build\windows\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\build\windows\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Administrator\Documents\Github\flutter\codelabs_app\build\windows\flutter\x64\Debug\flutter_assemble</FullPath>
+      <FullPath>C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\build\windows\flutter\x64\Debug\flutter_assemble</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

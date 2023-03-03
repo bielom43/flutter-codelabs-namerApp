@@ -1,6 +1,6 @@
-^C:\USERS\ADMINISTRATOR\DOCUMENTS\GITHUB\FLUTTER\CODELABS_APP\BUILD\WINDOWS\CMAKEFILES\527D26CF972422FF47EEA16183702227\FLUTTER_WINDOWS.DLL.RULE
+^C:\USERS\ADMINISTRATOR\DOCUMENTS\GITHUB\FLUTTER\FLUTTER-CODELABS-NAMERAPP\BUILD\WINDOWS\CMAKEFILES\1FEF1CDAF7210D2750C6C931114E531E\FLUTTER_WINDOWS.DLL.RULE
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=C:\Users\Administrator\Documents\Github\flutter\codelabs_app FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Administrator\Documents\Github\flutter\codelabs_app\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Administrator\Documents\Github\flutter\codelabs_app FLUTTER_TARGET=C:\Users\Administrator\Documents\Github\flutter\codelabs_app\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\Administrator\Documents\Github\flutter\codelabs_app\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp FLUTTER_TARGET=C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\Administrator\Documents\Github\flutter\flutter-codelabs-namerApp\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -8,7 +8,7 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
-^C:\USERS\ADMINISTRATOR\DOCUMENTS\GITHUB\FLUTTER\CODELABS_APP\BUILD\WINDOWS\CMAKEFILES\170D1884019E32B01A99EC7993C9473A\FLUTTER_ASSEMBLE.RULE
+^C:\USERS\ADMINISTRATOR\DOCUMENTS\GITHUB\FLUTTER\FLUTTER-CODELABS-NAMERAPP\BUILD\WINDOWS\CMAKEFILES\DD4C5BB91E10D84041C0E76CEB427009\FLUTTER_ASSEMBLE.RULE
 setlocal
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -16,9 +16,9 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
-^C:\USERS\ADMINISTRATOR\DOCUMENTS\GITHUB\FLUTTER\CODELABS_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+^C:\USERS\ADMINISTRATOR\DOCUMENTS\GITHUB\FLUTTER\FLUTTER-CODELABS-NAMERAPP\WINDOWS\FLUTTER\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Administrator/Documents/Github/flutter/codelabs_app/windows -BC:/Users/Administrator/Documents/Github/flutter/codelabs_app/build/windows --check-stamp-file C:/Users/Administrator/Documents/Github/flutter/codelabs_app/build/windows/flutter/CMakeFiles/generate.stamp
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Administrator/Documents/Github/flutter/flutter-codelabs-namerApp/windows -BC:/Users/Administrator/Documents/Github/flutter/flutter-codelabs-namerApp/build/windows --check-stamp-file C:/Users/Administrator/Documents/Github/flutter/flutter-codelabs-namerApp/build/windows/flutter/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
