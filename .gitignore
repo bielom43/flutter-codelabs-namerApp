@@ -31,6 +31,6 @@
 *.out
 *.app
 
-#Folders&Files
-build/
-build*
+build/*
+build/windows
+
