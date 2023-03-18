@@ -21,7 +21,7 @@ class FavoritesPage extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Padding(
-          padding: const EdgeInsets.all(20),
+          padding: const EdgeInsets.only(top: 50, left: 20),
           child: Text('You have ${appState.favorites.length} favorites:'),
         ),
         Expanded(
